@@ -3,7 +3,7 @@
 I'm a computer science student at Georgia Tech
 - Bachelors of Computer Science expected in May 2025
 - Masters of Computer Science expected in May 2026
-- Threads (specalizations): [Intelligence & System and Architecture](https://catalog.gatech.edu/programs/systems-architecture-intelligence-computer-science-bs/)
+- Threads (aka concentration): [Intelligence & System and Architecture](https://catalog.gatech.edu/programs/systems-architecture-intelligence-computer-science-bs/)
 - Interests: High performance computing, AI
 
 [Coursework](https://github.com/VirtualMe64/VirtualMe64/blob/main/coursework.md) | [LinkedIn](https://www.linkedin.com/in/sammytaubman/)
