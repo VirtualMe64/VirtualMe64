@@ -11,5 +11,11 @@ I'm a computer science student at Georgia Tech graduating in May 2026
 - Undegraduate Research Assistant in [HPArch](https://sites.gatech.edu/hparch/), researching parity in analog accelerators
 - Treasurer for [Survivor Georgia Tech](https://sites.gatech.edu/hparch/)
 
-![](https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+---
+
+<div align="center">
+<a>
+<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+</div>
