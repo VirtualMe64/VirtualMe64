@@ -10,7 +10,7 @@ I'm a computer science student at Georgia Tech graduating in May 2026
 
 ## Positions
 - TA for CS 3630 Intro to Perception and Robotics
-- Undegraduate Research Assistant in [HPArch](https://sites.gatech.edu/hparch/), researching parity in analog accelerators
+- Undegraduate Research Assistant with [HPArch](https://sites.gatech.edu/hparch/), researching novel parity schemes for analog accelerators
 - Treasurer for [Survivor Georgia Tech](https://sites.gatech.edu/hparch/)
 
 ---
