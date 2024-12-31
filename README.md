@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello there, I'm Sammy 👋
 
-<!--
-**VirtualMe64/VirtualMe64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at Georgia Tech graduating in May 2026
+- Graduting with Bachelors of Computer Science in May 2025
+- Graduating with Masters of Computer Science in May 2026
+- Threads (specalizations): [Intelligence & System and Architecture](https://catalog.gatech.edu/programs/systems-architecture-intelligence-computer-science-bs/)
+[Coursework](https://github.com/VirtualMe64/VirtualMe64/blob/main/coursework.md) | [LinkedIn](https://www.linkedin.com/in/sammytaubman/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Positions
+- TA for CS 3630 Intro to Perception and Robotics
+- Undegrdaute Research Assistant in [HPArch](https://sites.gatech.edu/hparch/), researching parity in analog accelerators
+- Treasurer for [Survivor Georgia Tech](https://sites.gatech.edu/hparch/)
