@@ -4,6 +4,8 @@ I'm a computer science student at Georgia Tech graduating in May 2026
 - Graduting with Bachelors of Computer Science in May 2025
 - Graduating with Masters of Computer Science in May 2026
 - Threads (specalizations): [Intelligence & System and Architecture](https://catalog.gatech.edu/programs/systems-architecture-intelligence-computer-science-bs/)
+- Interests: High performance computing, AI
+
 [Coursework](https://github.com/VirtualMe64/VirtualMe64/blob/main/coursework.md) | [LinkedIn](https://www.linkedin.com/in/sammytaubman/)
 
 ## Positions
@@ -15,7 +17,7 @@ I'm a computer science student at Georgia Tech graduating in May 2026
 
 <div align="center">
 <a>
-<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/VirtualMe64/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
