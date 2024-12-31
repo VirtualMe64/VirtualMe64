@@ -1,6 +1,6 @@
 ## Hello there, I'm Sammy 👋
 
-I'm a computer science student at Georgia Tech graduating in May 2026
+I'm a computer science student at Georgia Tech
 - Bachelors of Computer Science expected in May 2025
 - Masters of Computer Science expected in May 2026
 - Threads (specalizations): [Intelligence & System and Architecture](https://catalog.gatech.edu/programs/systems-architecture-intelligence-computer-science-bs/)
