@@ -11,7 +11,7 @@ I'm a computer science student at Georgia Tech
 ## Positions
 - TA for CS 3630 Intro to Perception and Robotics
 - Undegraduate Research Assistant with [HPArch](https://sites.gatech.edu/hparch/), researching novel parity schemes for analog accelerators
-- Treasurer for [Survivor Georgia Tech]([https://sites.gatech.edu/hparch/](https://www.instagram.com/survivorgeorgiatech/))
+- Treasurer for [Survivor Georgia Tech](https://www.instagram.com/survivorgeorgiatech/)
 
 ---
 
