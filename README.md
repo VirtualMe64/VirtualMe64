@@ -13,6 +13,8 @@ I'm a computer science student at Georgia Tech
 - Undegraduate Research Assistant with [HPArch](https://sites.gatech.edu/hparch/), researching novel parity schemes for analog accelerators
 - Treasurer for [Survivor Georgia Tech](https://www.instagram.com/survivorgeorgiatech/)
 
+## My Lists (Not Complete)
+- [🚀Hackathon Projects](https://github.com/stars/VirtualMe64/lists/hackathons)
 ---
 
 <div align="center">
