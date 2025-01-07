@@ -15,6 +15,7 @@ I'm a computer science student at Georgia Tech
 
 ## My Lists (Not Complete)
 - [🚀Hackathon Projects](https://github.com/stars/VirtualMe64/lists/hackathons)
+- [✏️School Projects](https://github.com/stars/VirtualMe64/lists/school-projects)
 ---
 
 <div align="center">
