@@ -19,9 +19,7 @@
 - MATH 2106 Foundations of Math Proof
 - MATH 2X51 Multivariable Calculus
 - MATH 3012 Combinatorics
-
-## In Progress
 - CS 3220 Processor Design
 - CS 3312 Project Implementation
 - CS 4240 Compilers and Interpeters
-- CS 6476 Computer Vision
+- CS 7643 Deep Learning
